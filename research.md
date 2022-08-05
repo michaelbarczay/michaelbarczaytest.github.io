@@ -3,8 +3,9 @@ layout: research
 title: "Research"
 ---
 
+## Research
 
-## Work in Progress
+### Work in Progress
 
 #### On the Optimal Design of Consumption Taxes
 
