@@ -1,5 +1,5 @@
 ---
-layout: teaching
+layout: Teaching
 title: "Teaching"
 ---
 
