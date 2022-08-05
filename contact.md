@@ -3,7 +3,6 @@ layout: contact
 title: "Contact"
 ---
 
-## Michael Barczay
 
 European University Institute  
 Department of Economics  
