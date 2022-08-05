@@ -3,10 +3,9 @@ layout: contact
 title: "Contact"
 ---
 
-**Michael Barczay**
+## Michael Barczay
 
-
-European University Institute 
+European University Institute  
 Department of Economics  
 Via delle Fontanelle 18  
 50014 Fiesole  
