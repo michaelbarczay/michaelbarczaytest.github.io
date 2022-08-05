@@ -1,6 +1,6 @@
 ---
-layout: Teaching
-title: "Teaching"
+layout: teaching
+title: "teaching"
 ---
 
 ## Teaching
