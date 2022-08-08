@@ -5,7 +5,7 @@ title: "teaching"
 
 ## Teaching
 
-- **Dynamic Fiscal and Monetary Policy**
+- **Macroeconomics1: Dynamic Fiscal and Monetary Policy**
     - Teaching Assistant to Russell Cooper, PhD level, Fall 2021  
     
 - **Introduction to Programming with Matlab**
