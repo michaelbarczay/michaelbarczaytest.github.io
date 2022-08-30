@@ -7,4 +7,4 @@ I am a 3rd year PhD candidate in Economics at the European University Institute 
 
 My advisors are [Alexander Monge-Naranjo](https://www.eui.eu/people?id=alexander-monge-naranjo) and [Russell Cooper](https://www.eui.eu/people?id=russell-cooper).
 
-My research focuses on **Macroeconomics**, **Fiscal Policy**, and **Optimal Taxation**.
+My research focuses on **Macroeconomics**, **Fiscal Policy**, and **Taxation**.
