@@ -6,12 +6,12 @@ title: "teaching"
 ## Teaching
 
 - **Life-Cycle Heterogeneous Agents Models: Solution and Estimation**
-    - Teaching Assistant to Jesus Bueren, PhD level, Fall 2022 
+    - EUI PhD Advanced Course, Teaching Assistant to Jesus Bueren, Fall 2022 
    
 - **Matlab Programming Bootcamp**
-    - Instructor, PhD level, Fall 2021 and 2022 
+    - EUI PhD Core Course, Instructor, Fall 2021 and 2022 
 
 - **Macroeconomics 1: Dynamic Fiscal and Monetary Policy**
-    - Teaching Assistant to Russell Cooper, PhD level, Fall 2021  
+    - EUI PhD Core Course, Teaching Assistant to Russell Cooper, Fall 2021  
 
 
