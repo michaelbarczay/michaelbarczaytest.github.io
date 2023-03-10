@@ -7,4 +7,4 @@ My name is Michael Barczay and I am a 3rd year PhD candidate in Economics at the
 
 My advisors are [Alexander Monge-Naranjo](https://www.eui.eu/people?id=alexander-monge-naranjo) and [Russell Cooper](https://www.eui.eu/people?id=russell-cooper).
 
-My research focuses on **Macroeconomics**, **Inequality**, **Fiscal and Monetary Policy**, **Taxation** and **Applied Econometrics**.
+My research focuses on **Macroeconomics**, **Public Finance**, **Taxation** and **Applied Econometrics**.
