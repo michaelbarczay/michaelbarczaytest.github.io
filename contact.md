@@ -15,4 +15,4 @@ Via delle Fontanelle 18
 
 
 
-Website layout by [Paul Le]([mailto:michael.barczay@eui.eu](https://github.com/LeNPaul/academic)).
+All credits for the website layout to [Paul Le](https://github.com/LeNPaul/academic).
