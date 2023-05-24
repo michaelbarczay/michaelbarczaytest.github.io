@@ -10,7 +10,7 @@ Via delle Fontanelle 18
 50014 Fiesole  
 
 **Email:** [michael.barczay@eui.eu](mailto:michael.barczay@eui.eu)  
-**Github:** [michaelbarczay.github.io](https://michaelbarczay.github.io)  
+**Github:** [github.com/michaelbarczay](https://github.com/michaelbarczay)  
 **Twitter:** [twitter.com/michaelbarczay](https://twitter.com/michaelbarczay)
 
 
