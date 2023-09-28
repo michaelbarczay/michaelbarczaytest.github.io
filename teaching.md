@@ -12,7 +12,7 @@ title: "teaching"
 ---
    
 **Matlab Programming Bootcamp**
-   - EUI PhD Core Course, Instructor, Fall 2021 and 2022 
+   - EUI PhD Core Course, Instructor, Fall 2021, 2022 and 2023 
    
    
 ---
