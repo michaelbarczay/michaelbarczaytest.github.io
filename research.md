@@ -6,7 +6,7 @@ title: "research"
 ## Research
 
 #### <ins>Work in Progress</ins>
-**On the Optimal Design of Consumption Taxes**\
+**On the Optimal Design of Consumption Taxes** (Draft available upon request)\
     -  *EUI Best Second Year Paper Award*\
     - Presented at: *EUI 2nd Year Forum, Swiss Economists Abroad End of the Year Conference 2022, EUI Macro Working Group*
     
