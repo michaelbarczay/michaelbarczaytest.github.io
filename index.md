@@ -9,4 +9,4 @@ My advisors are [Alexander Monge-Naranjo](https://www.eui.eu/people?id=alexander
 
 My research focuses on **(Quantitative) Macroeconomics** and **Public Finance**. I am also interested in **Applied Econometrics**.
 
-Here, you can find my CV [here](/assets/CV_Barczay.pdf).
+For more information, have a look at my [Research](https://michaelbarczay.com/research) or my [CV](/assets/CV_Barczay.pdf).
