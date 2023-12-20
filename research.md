@@ -12,7 +12,7 @@ title: "research"
     
 ---
 
-**Distributional Consequences of an Investment Tax Credit**\
+**How to Finance the Green Transition: The Political Economy of Green Investment Tax Credits**\
     - with *Russell Cooper*
     
 ---
