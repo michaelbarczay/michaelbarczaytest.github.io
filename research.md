@@ -15,7 +15,7 @@ I study this question using a quantitative model featuring heterogeneous househo
     
 ---
 
-**How to Finance the Green Transition: The Political Economy of Green Investment Tax Credits**\
+**How to Finance the Green Transition? The Political Economy of Green Investment Tax Credits**\
     - with *Russell Cooper*
     
 ---
