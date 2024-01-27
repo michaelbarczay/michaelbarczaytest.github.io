@@ -6,7 +6,7 @@ title: "teaching"
 ## Teaching
 
 **Life-Cycle Heterogeneous Agents Models: Solution and Estimation**
-   - EUI PhD Advanced Course, Teaching Assistant to Jesus Bueren, Fall 2022
+   - EUI PhD Advanced Course, Teaching Assistant to Jesus Bueren, Fall 2022 & Spring 2024
    
    
 ---
