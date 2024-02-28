@@ -24,7 +24,7 @@ I study this question using a quantitative model featuring heterogeneous househo
 ---
     
 **A Time-varying Bank Lending Channel in Switzerland**\
-    - with *Sylvia Kaufmann* and *Matthias Gubler*
+    - with *Sylvia Kaufmann*
     
 ---
 
