@@ -23,7 +23,7 @@ I study this question using a quantitative model featuring heterogeneous househo
     
 ---
     
-**A Time-varying Bank Lending Channel in Switzerland**\
+**Heterogeneity in the Bank Lending Channel: Evidence from the Euro Area**\
     - with *Sylvia Kaufmann*
     
 ---
