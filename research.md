@@ -19,8 +19,8 @@ I study this question using a quantitative model featuring heterogeneous househo
 ---
 
 **How to Finance the Green Transition? The Political Economy of Green Investment Tax Credits**\
-    - with *Russell Cooper*
-    - Presented at *EUI 4th Year Forum (2024)*
+    - with *Russell Cooper*\
+    - Presented at *EUI 4th Year Forum (2024)*\
     - [Blog post](https://lafonte.eui.eu/2024/04/11/financing-the-green-transition-the-political-economy-of-investment-tax-credits/)
 <details>
   <summary>Abstract</summary>
