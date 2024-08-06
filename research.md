@@ -30,7 +30,7 @@ We study the aggregate and distributional consequences of green investment tax c
 ---
 
 **Taxing Mobile Money: Theory and Evidence**\
-    - with *Shafik Hebous*, *Faycal Sawadogo* and Jean-Francois Wen\
+    - with *Shafik Hebous*, *Faycal Sawadogo* and Jean-Francois Wen
     
 ---
     
