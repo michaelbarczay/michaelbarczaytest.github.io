@@ -9,6 +9,4 @@ I am working under the supervision of [Alexander Monge-Naranjo](https://www.eui.
 
 My research focuses on topics related to **(Quantitative) Macroeconomics** and **Public Finance**.
 
-I am currently a Fund Intern at the IMF's Tax Policy Division.
-
 For more information, have a look at my [research](https://michaelbarczay.com/research) or my [CV](/assets/CV_Barczay.pdf). 
