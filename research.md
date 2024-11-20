@@ -7,7 +7,7 @@ title: "research"
 
 #### <ins>Work in Progress</ins>
 **On the Optimal Design of Consumption Taxes** (Draft available upon request)<br>
-    -  <span style="font-size: 0.9em;">*EUI Best Second Year Paper Award*</span> \ 
+    -  <span style="font-size: 0.9em;">*EUI Best Second Year Paper Award*</span> <br>
     - <span style="font-size: 0.9em;">Presented at: *EUI 2nd Year Forum (2022), Swiss Economists Abroad End of the Year Conference 2022, Banco Central de Chile, EUI Macro Working Group (2023), SAEe 2023, Study Center Gerzensee, MMF Annual Conference 2024, Doctoral Workshop on Quantitative Dynamic Economics (AMSE) 2024*</span>
 <details>
   <summary>Abstract</summary>
