@@ -7,8 +7,8 @@ title: "CV"
 
 
 
-You can find my CV [here](/assets/CV_Barczay.pdf).
+[Here](/assets/CV_Barczay.pdf) you can find a PDF of my CV..
 
 
-<object data="{{ site.url }}{{ site.baseurl }}/assets/CV_Barczay.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/CV_Barczay.pdf" width="900" height="900" type="application/pdf"></object>
 
