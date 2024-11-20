@@ -10,5 +10,5 @@ title: "CV"
 You can find my CV [here](/assets/CV_Barczay.pdf).
 
 
-![some discription](/assets/CV_Barczay.pdf "some discription")
-
+<object data="/assets/CV_Barczay.pdf" type="application/pdf" width="100%"> 
+</object>
