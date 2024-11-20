@@ -3,9 +3,11 @@ layout: research
 title: "research"
 ---
 
-## Research
+## Research <br>
+<br>
+#### <ins>Work in Progress</ins> <br>
+<br>
 
-#### <ins>Work in Progress</ins>
 <span style="color:Navy"> **On the Optimal Design of Consumption Taxes** </span> (Draft available upon request)<br>
     -  <span style="font-size: 0.9em;">*EUI Best Second Year Paper Award*</span> <br>
     - <span style="font-size: 0.9em;">Presented at: *EUI 2nd Year Forum (2022), Swiss Economists Abroad End of the Year Conference 2022, Banco Central de Chile, EUI Macro Working Group (2023), SAEe 2023, Study Center Gerzensee, MMF Annual Conference 2024, Doctoral Workshop on Quantitative Dynamic Economics (AMSE) 2024*</span>
@@ -18,7 +20,7 @@ I study this question using a quantitative model featuring heterogeneous househo
     
 ---
 
-**How to Finance the Green Transition? The Political Economy of Green Investment Tax Credits**\
+<span style="color:Navy"> **How to Finance the Green Transition? The Political Economy of Green Investment Tax Credits** </span> <br>
     - <span style="font-size: 0.9em;">with *Russell Cooper*</span> <br>
     - <span style="font-size: 0.9em;">Presented at *EUI 4th Year Forum (2024)*</span> <br>
     - <span style="font-size: 0.9em;">[Blog post](https://lafonte.eui.eu/2024/04/11/financing-the-green-transition-the-political-economy-of-investment-tax-credits/) </span>
@@ -29,17 +31,17 @@ We study the aggregate and distributional consequences of green investment tax c
 
 ---
 
-**Taxing Mobile Money: Theory and Evidence**\
+<span style="color:Navy"> **Taxing Mobile Money: Theory and Evidence** </span> <br>
     - <span style="font-size: 0.9em;">with *Shafik Hebous*, *Faycal Sawadogo* and *Jean-Francois Wen* </span>
     
 ---
     
-**Heterogeneity in the Bank Lending Channel: Evidence from the Euro Area**\
+<span style="color:Navy"> **Heterogeneity in the Bank Lending Channel: Evidence from the Euro Area** </span> <br>
     - <span style="font-size: 0.9em;">with *Sylvia Kaufmann* </span>
     
 ---
     
-**Participation and Capital Dynamics: A Framework for Analysis**\
+<span style="color:Navy"> **Participation and Capital Dynamics: A Framework for Analysis** </span> <br>
     - <span style="font-size: 0.9em;">with *Russell Cooper* </span>
     
 ---
